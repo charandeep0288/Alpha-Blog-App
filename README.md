@@ -1,5 +1,16 @@
 # README
 
+https://serene-hollows-44869.herokuapp.com/
+
+--------------------------------------------------------
+NOTE:- When ever we change any thing in the gem file then we have to run the "bundle install".
+
+In cmd, 
+bundle install --without production; # to run bundler without production group in gem file.
+
+
+--------------------------------------------------------
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
